@@ -31,7 +31,9 @@ a{
    text-align:center;
    width: 800px;
 }
-#featured-property
+.featured-p {
+  
+}
 
 #details {
   display:block;

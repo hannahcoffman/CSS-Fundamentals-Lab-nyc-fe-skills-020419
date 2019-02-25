@@ -33,7 +33,8 @@ nav {
 
 #details {
    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 800px;
+}
+.dtails-1 {
+  float:left;
+}
 }
